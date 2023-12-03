@@ -1,9 +1,5 @@
 ### Intro
 
-- :nerd_face: I have a strong understanding of how to exploit machine learning for most tasks! :rocket:
-- 🌱 I’m currently casually self-learning ML-privacy attacks and defenses
-- 🤝 I am happy to collaborate on topics related to machine learning in the intersection with privacy and/or signal processing. Please feel free to reach out to me via email or GitHub if you are interested in working on a project together.
-
 ### My GitHub Repositories
 
 | Category | Repositories|
