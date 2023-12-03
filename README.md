@@ -1,5 +1,6 @@
 ### Intro
-![DALL·E 2023-12-03 21 19 14 - A minimalistic icon symbolizing deep learning, featuring a stylized neural network representation  The design should be simple and easily recognizable](https://github.com/dianujizer/dianujizer/assets/47445756/06aedbdb-13f5-4abf-834c-fe20e01f8a43) I know my way around deep learning.
+I know my way around deep learning 🧠.
+
 
 
 ### My GitHub Repositories
