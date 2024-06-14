@@ -1,10 +1,10 @@
 ### Intro
-I am not a robot, please dont kill me with your dumbness.
+I am not a robot.
 
 
-![mesh_spiral_view](https://github.com/superdianuj/superdianuj/assets/47445756/f456e97a-1661-480a-9d0f-0d50becc6d7a)
 
 
+![mesh_spiral_view-ezgif com-gif-maker](https://github.com/superdianuj/superdianuj/assets/47445756/04caba37-c20c-4afa-8afa-42b27712a8a7)
 
 ### My GitHub Repositories
 
