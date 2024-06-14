@@ -1,5 +1,8 @@
 ### Intro
-I struggle but I know my way around deep learning 🧠.
+I am not a robot, please dont kill me with your dumbness.
+
+
+![mesh_spiral_view](https://github.com/superdianuj/superdianuj/assets/47445756/f456e97a-1661-480a-9d0f-0d50becc6d7a)
 
 
 
