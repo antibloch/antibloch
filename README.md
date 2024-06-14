@@ -1,10 +1,17 @@
+
+<div align="center">
+
 ### Intro
+
 I am not a robot.
 
+<br><br>
+
+![mesh_spiral_view](https://github.com/superdianuj/superdianuj/assets/47445756/f7fdd2ed-50b1-4205-9002-f6f8f4200621)
 
 
 
-![mesh_spiral_view-ezgif com-gif-maker](https://github.com/superdianuj/superdianuj/assets/47445756/04caba37-c20c-4afa-8afa-42b27712a8a7)
+</div>
 
 ### My GitHub Repositories
 
