@@ -3,14 +3,7 @@
 
 ### Intro
 
-I am not a robot.
-
-<br>
-
-
-![mesh_spiral_view_extended](https://github.com/superdianuj/superdianuj/assets/47445756/f4b1cb25-8a86-417e-8503-8b693e288075)
-
-ref: (https://wukailu.github.io/Unique3D/)
+Bloched.
 
 
 
