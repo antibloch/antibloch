@@ -3,7 +3,7 @@
 
 ### Intro
 
-ML engineer and researcher with expertise in computer vision, and ML privacy, backed by IEEE/Elsevier/Springer publications and extensive open-source projects. Specializes in vision systems development from 2D detection/tracking to 3D reconstruction. Driven to transform top-tier research into robust, production-ready solutions with real-world impact.
+I am interested in computer vision, and ML privacy topics.
 
 
 
