@@ -3,7 +3,7 @@
 
 ### Intro
 
-I am interested in LLMs, computer vision, and ML privacy topics.
+Interested in Agents, LLMs, 2D/3D vision and their privacy aspects
 
 
 
